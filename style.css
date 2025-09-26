@@ -5,6 +5,8 @@
     margin: 50px 400px ;
     /* margin-left: 450px; */
     border: 8px solid black;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
