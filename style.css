@@ -28,11 +28,11 @@
 
 .row:nth-child(odd) .column:nth-child(even),
 .row:nth-child(even) .column:nth-child(odd){
-    background-color:#f0d9b5;
+    background-color:#e4bf88;
 }
 .row:nth-child(odd) .column:nth-child(odd),
 .row:nth-child(even) .column:nth-child(even){
-    background-color: #b58863;
+    background-color: #c5671a;
 }
 
     
